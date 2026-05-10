@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Lecturer | ARC Future Fellow <a href='https://www.unsw.edu.au'>UNSW Sydney</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
