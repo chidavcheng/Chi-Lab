@@ -405,15 +405,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/chi-lab/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/chi-lab/news/announcement_2/";
-            },},{id: "news-tongxi-lin-joins-the-chi-lab-tongxi-completed-his-phd-in-materials-science-studying-graphene-oxide-membranes-with-prof-rakesh-joshi-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-tongxi",
+            },},{id: "news-david-appointed-deputy-director-of-the-unsw-unesco-centre-for-membrane-science-and-technology",
+          title: 'David appointed Deputy Director of the UNSW UNESCO Centre for Membrane Science and...',
+          description: "",
+          section: "News",},{id: "news-tongxi-lin-joins-the-chi-lab-tongxi-completed-his-phd-in-materials-science-studying-graphene-oxide-membranes-with-prof-rakesh-joshi-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-tongxi",
           title: 'Tongxi Lin joins the Chi Lab! Tongxi completed his PhD in Materials Science...',
           description: "",
           section: "News",},{id: "news-dr-yuan-yan-joins-the-chi-lab-as-a-postdoctoral-fellow-yuan-completed-his-phd-at-the-university-of-melbourne-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-yuan",
