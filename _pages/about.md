@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer | ARC Future Fellow <a href='https://www.unsw.edu.au'>UNSW Sydney</a>. Sydney, NSW, Australia. Contacts. Motto. Etc.
+subtitle: Senior Lecturer | ARC Future Fellow @ <a href='https://www.unsw.edu.au'>UNSW Sydney,</a>. Australia. 📧 <a href='mailto:chi.cheng2@unsw.edu.au'>chi.cheng@unsw.edu.au</a>
 
 profile:
   align: right
