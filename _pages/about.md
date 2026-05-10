@@ -32,7 +32,8 @@ I lead the Chi Lab at UNSW Sydney, where we study nanofluidics and advanced memb
 
 Before joining UNSW, I was a Research Scientist and Postdoctoral Associate at MIT and held a research fellowship at the University of Melbourne. I completed my PhD in Materials Science at Monash University.
 
-If you're interested in joining the lab or collaborating, feel free to get in touch at 📧 chi.cheng2@unsw.edu.au.
+If you're interested in joining the lab or collaborating, feel free to get in touch at 
+📧 chi.cheng2@unsw.edu.au.
 
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
