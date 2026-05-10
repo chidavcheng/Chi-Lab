@@ -410,7 +410,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/chi-lab/news/announcement_2/";
-            },},{id: "news-david-appointed-deputy-director-of-the-unsw-unesco-centre-for-membrane-science-and-technology",
+            },},{id: "news-zhengyao-chen-kairos-joins-the-chi-lab-as-an-mphil-student-welcome-kairos",
+          title: 'Zhengyao Chen (Kairos) joins the Chi Lab as an MPhil student. Welcome, Kairos!...',
+          description: "",
+          section: "News",},{id: "news-david-appointed-deputy-director-of-the-unsw-unesco-centre-for-membrane-science-and-technology",
           title: 'David appointed Deputy Director of the UNSW UNESCO Centre for Membrane Science and...',
           description: "",
           section: "News",},{id: "news-zhouhao-was-awarded-the-2026-hdr-development-and-research-training-grant-drtg-congratulations",
@@ -421,9 +424,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-dr-yuan-yan-joins-the-chi-lab-as-a-postdoctoral-fellow-yuan-completed-his-phd-at-the-university-of-melbourne-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-yuan",
           title: 'Dr. Yuan Yan joins the Chi Lab as a Postdoctoral Fellow! Yuan completed...',
-          description: "",
-          section: "News",},{id: "news-zhengyao-chen-kairos-joins-the-chi-lab-as-an-mphil-student-welcome-kairos",
-          title: 'Zhengyao Chen (Kairos) joins the Chi Lab as an MPhil student. Welcome, Kairos!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
