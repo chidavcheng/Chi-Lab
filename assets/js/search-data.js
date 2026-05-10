@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/chi-lab/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "publications in reversed chronological order.",
           section: "Navigation",
           handler: () => {
