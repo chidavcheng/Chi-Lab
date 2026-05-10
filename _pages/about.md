@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer | ARC Future Fellow @ <a href='https://www.unsw.edu.au'>UNSW Sydney,</a>. Australia. 📧 <a href='mailto:chi.cheng2@unsw.edu.au'>chi.cheng@unsw.edu.au</a>
+subtitle: Senior Lecturer | ARC Future Fellow @ <a href='https://www.unsw.edu.au'>UNSW Sydney</a>, Australia. 
 
 profile:
   align: right
@@ -27,7 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+I lead the Chi Lab at UNSW Sydney, where we study nanofluidics and advanced membranes. Our research advances chemical separations, green energy, and sustainable resource technologies.
+Before joining UNSW, I was a Research Scientist and Postdoctoral Associate at MIT and held a research fellowship at the University of Melbourne. I completed my PhD in Materials Science at Monash University.
+If you're interested in joining the lab or collaborating, feel free to get in touch at 📧 chi.cheng2@unsw.edu.au.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
