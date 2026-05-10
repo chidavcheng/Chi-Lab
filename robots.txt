@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chidavcheng.github.io/chi-lab/sitemap.xml
+Sitemap: https://chidavcheng.github.io/sitemap.xml
