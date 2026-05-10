@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chi-lab/publications/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "news of Chi lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/chi-lab/news/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
