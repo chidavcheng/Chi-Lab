@@ -28,6 +28,9 @@ latest_posts:
 ---
 
 
+
+
+
 I lead the Chi Lab at UNSW Sydney, where we study nanofluidics and advanced membranes. Our research advances chemical separations, green energy, and sustainable resource technologies.
 
 Before joining UNSW, I was a Research Scientist and Postdoctoral Associate at MIT and held a research fellowship at the University of Melbourne. I completed my PhD in Materials Science at Monash University.
