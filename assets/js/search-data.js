@@ -420,8 +420,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/chi-lab/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-dr-yuan-yan-joins-the-chi-lab-as-a-postdoctoral-fellow-yuan-completed-his-phd-at-the-university-of-melbourne-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-yuan",
+          title: 'Dr. Yuan Yan joins the Chi Lab as a Postdoctoral Fellow! Yuan completed...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
