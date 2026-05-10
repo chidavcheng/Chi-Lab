@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/chi-lab/news/announcement_2/";
-            },},{id: "news-dr-yuan-yan-joins-the-chi-lab-as-a-postdoctoral-fellow-yuan-completed-his-phd-at-the-university-of-melbourne-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-yuan",
-          title: 'Dr. Yuan Yan joins the Chi Lab as a Postdoctoral Fellow! Yuan completed...',
+            },},{id: "news-tongxi-lin-joins-the-chi-lab-tongxi-completed-his-phd-in-materials-science-studying-graphene-oxide-membranes-with-prof-rakesh-joshi-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-tongxi",
+          title: 'Tongxi Lin joins the Chi Lab! Tongxi completed his PhD in Materials Science...',
           description: "",
           section: "News",},{id: "news-dr-yuan-yan-joins-the-chi-lab-as-a-postdoctoral-fellow-yuan-completed-his-phd-at-the-university-of-melbourne-we-are-thrilled-to-have-him-on-board-and-look-forward-to-the-exciting-science-ahead-together-welcome-yuan",
           title: 'Dr. Yuan Yan joins the Chi Lab as a Postdoctoral Fellow! Yuan completed...',
