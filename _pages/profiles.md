@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the Chi Lab
 nav: true
 nav_order: 4
 
