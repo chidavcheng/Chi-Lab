@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-04-07 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Dr. Yuan Yan joins the Chi Lab as a Postdoctoral Fellow! Yuan completed his PhD at the University of Melbourne. We are thrilled to have him on board and look forward to the exciting science ahead together. Welcome, Yuan! 🎉
