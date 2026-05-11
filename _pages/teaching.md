@@ -49,3 +49,12 @@ Postgraduate course covering membrane materials, transport mechanisms, and indus
 ##### Student Supervision
 
 If you are considering undertaking an undergraduate or Master’s thesis with us at UNSW Sydney, you may do so through [CEIC4951](https://handbook.unsw.edu.au/undergraduate/courses/2025/CEIC4951), [CEIC4952](https://handbook.unsw.edu.au/undergraduate/courses/2026/CEIC4952), [CEIC4953](https://handbook.unsw.edu.au/undergraduate/courses/2021/CEIC4953.html)/[CEIC9953](https://www.cse.unsw.edu.au/~give/ClassUtil/CEIC/T0.html), or [CEIC4954](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/CEIC4954.html) research thesis projects. Please feel free to get in touch at [chi.cheng2@unsw.edu.au](mailto:chi.cheng2@unsw.edu.au) to discuss potential opportunities with our group.
+
+##### Honours & Master's Students
+
+| Name | Degree | Period | 
+|---|---|---|
+| WeiLe Gu | Honours, Bachelor of Engineering (Honours) (Chemical Engineering) | 2026 |
+| Vivian Wu | Honours, Bachelor of Engineering (Honours) (Chemical Engineering) | 2026 | 
+| Huibo Cao | Master's, Master of Engineering Science (Chemical Engineering) | 2025–2026 |
+
