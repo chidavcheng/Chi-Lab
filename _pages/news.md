@@ -23,6 +23,8 @@ nav_order: 5
 
 **Oct 2025** — Chi Lab awarded **AU$200k** from the UNSW–Chinese Academy of Sciences Collaborative Research Program Stage II for *"Nanofluidic membrane electrode assemblies for highly efficient green hydrogen production."*
 
+**Sep 2025** — Hongzhe Chen joins the Chi Lab as a PhD student. Welcome aboard! 🎉
+
 **Jul 2025** — David gave an invited talk at the Membrane Society of Australasia (MSA) Industry Seminar, Wollongong, Australia.
 
 **Jun 2025** — Feifan Yang from the University of British Columbia, Canada, joins the Chi Lab as a PhD student. Welcome aboard! 🎉
