@@ -13,12 +13,12 @@ I believe that great engineering education goes beyond conveying facts — it sh
 
 ##### UNSW Sydney
 
-**[CEIC2001 — Fluid & Particle Mechanics](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/CEIC2001)**
+**[CEIC2001 — Fluid & Particle Mechanics](https://www.handbook.unsw.edu.au/undergraduate/courses/2026/CEIC2001)**
 Course Convenor & Instructor · 2024–present
 
 Fundamentals of fluid mechanics and particle dynamics for chemical engineering, covering viscous flow, pipe systems, pumps, fluidisation, and sedimentation.
 
-**[CEIC8341 — Membrane Processes](https://www.handbook.unsw.edu.au/postgraduate/courses/2024/CEIC8341)**
+**[CEIC8341 — Membrane Processes](https://www.handbook.unsw.edu.au/postgraduate/courses/2026/CEIC8341)**
 Course Coordinator & Instructor · 2026–present
 
 Postgraduate course covering membrane materials, transport mechanisms, and industrial separation processes including microfiltration, ultrafiltration, nanofiltration, reverse osmosis, gas separation, and membrane distillation. Previously contributed as a guest lecturer on membrane distillation (2024).
