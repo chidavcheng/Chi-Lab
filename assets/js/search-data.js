@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-news-archive",
           title: "news archive",
-          description: "Key milestones and news of the Chi Lab since October 2023.",
+          description: "Milestones and news of the Chi Lab since October 2023.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/chi-lab/news-archive/";
