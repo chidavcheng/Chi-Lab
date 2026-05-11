@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: Members of the Chi Lab.
+description: Members of the Chi Lab at UNSW Sydney.
 nav: true
 nav_order: 3
 ---
@@ -178,8 +178,8 @@ nav_order: 3
 
 | Name | Degree | Period | Current |
 |---|---|---|---|
-| Jiancheng (Ivan) Lin | PhD, Chemical Engineering | 2022–2025 | UNSW Sydney |
-| Maoqi Lin | Postdoctoral Fellow | 2023–2024 | — |
+| Jiancheng (Ivan) Lin | PhD, Chemical Engineering | 2022–2025 | University of Sydney |
+| Maoqi Lin | Postdoctoral Fellow | 2023–2024 | BYD Company Limited |
 | Hien Thao Nguyen | MPhil, University of Melbourne | 2022–2023 | — |
 
 ---
