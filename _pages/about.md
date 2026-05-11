@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer & ARC Future Fellow @ <a href='https://www.unsw.edu.au' target='_blank'>UNSW Sydney</a> · Deputy Director, <a href='https://www.unsw.edu.au/research/unesco-membrane' target='_blank'>UNESCO Centre for Membrane Science and Technology</a>
+subtitle: Senior Lecturer & ARC Future Fellow @ <a href='https://www.unsw.edu.au' target='_blank'>UNSW Sydney</a>, Australia.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I lead the Chi Lab at UNSW Sydney, where we study nanofluidics and advanced membranes — designing atomically thin membranes and uncovering how molecules and ions move at the nanoscale. Our work drives innovation in chemical separations, green energy, and secure and sustainable resources.
+I lead the Chi Lab at UNSW Sydney, where we study nanofluidics and advanced membranes — designing atomically thin membranes and uncovering how molecules and ions move at the nanoscale. Our work drives innovation in chemical separations, green energy, and secure and sustainable resources. I also serve as Deputy Director of the <a href='https://www.unsw.edu.au/research/membrane' target='_blank'>UNESCO Centre for Membrane Science and Technology</a>.
 
 I graduated with a PhD in Materials Science and Engineering at Monash University, before going on to work as a Research Scientist and Postdoctoral Associate at MIT, and held fellowships at the University of Melbourne and Monash University.
 
