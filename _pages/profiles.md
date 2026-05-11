@@ -75,7 +75,7 @@ nav_order: 3
   <img src="/chi-lab/assets/img/feifan_yang.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
   <h6 class="mb-0">Feifan Yang</h6>
   <p class="text-muted small mb-0">PhD Student, 2025–</p>
-  <p class="text-muted small">Chemical Engineering<br>Univ. of British Columbia (BSc)</p>
+  <p class="text-muted small">Chemical Engineering<br>Univ. of British Columbia (c)</p>
 </div>
 
 <div class="col">
@@ -144,4 +144,4 @@ nav_order: 3
 
 ##### Join Us
 
-We are always looking for motivated PhD students, postdoctoral fellows, and visiting researchers to join the lab. If you are interested in working on nanofluidics, membrane science, or related areas, please get in touch at [chi.cheng2@unsw.edu.au](mailto:chi.cheng2@unsw.edu.au).
+We are always looking for motivated PhD students and visiting researchers to join the lab. Postdoctoral positions may also become available depending on funding availability, and opportunities will be announced from time to time. If you are interested in working on nanofluidics, membrane science, or related areas, please get in touch at [chi.cheng2@unsw.edu.au](mailto:chi.cheng2@unsw.edu.au).
