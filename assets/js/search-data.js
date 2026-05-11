@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chi-lab/people/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Teaching activities and philosophy of Chi (David) Cheng at UNSW Sydney.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/chi-lab/teaching/";
+          },
         },{id: "nav-news-archive",
           title: "news archive",
           description: "Milestones and news of the Chi Lab since October 2023.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/chi-lab/news-archive/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/chi-lab/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
