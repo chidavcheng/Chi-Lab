@@ -48,4 +48,4 @@ Postgraduate course covering membrane materials, transport mechanisms, and indus
 
 ##### Student Supervision
 
-I am committed to mentoring the next generation of researchers. Current group members include **11 PhD students**, **5 MPhil students**, and **2 Postdoctoral Fellows** at UNSW Sydney. Please get in touch at [chi.cheng2@unsw.edu.au](mailto:chi.cheng2@unsw.edu.au) if you are interested in joining the lab.
+I am committed to mentoring the next generation of researchers. Current group members include **4 PhD students**, **5 MPhil students**, and **2 Postdoctoral Fellows** at UNSW Sydney. Please get in touch at [chi.cheng2@unsw.edu.au](mailto:chi.cheng2@unsw.edu.au) if you are interested in joining the lab.
