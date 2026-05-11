@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching activities and philosophy of Chi (David) Cheng at UNSW Sydney.
+description: Teaching philosophy and activities.
 nav: true
 nav_order: 4
 ---
