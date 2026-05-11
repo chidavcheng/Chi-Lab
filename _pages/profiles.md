@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: Members of the Chi Lab at UNSW Sydney.
+description: Members of the Chi Lab.
 nav: true
 nav_order: 3
 ---
@@ -37,7 +37,7 @@ nav_order: 3
 
 <div class="col">
   <img src="/chi-lab/assets/img/tongxi_lin.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Tongxi Lin</h6>
+  <h6 class="mb-0">Dr. Tongxi Lin</h6>
   <p class="text-muted small mb-0">Researcher, 2026–</p>
   <p class="text-muted small">UNSW Sydney (PhD)</p>
 </div>
@@ -58,13 +58,6 @@ nav_order: 3
 </div>
 
 <div class="col">
-  <img src="/chi-lab/assets/img/bohan_hao.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Bohan Hao</h6>
-  <p class="text-muted small mb-0">PhD Student, 2024–</p>
-  <p class="text-muted small">Chemical Engineering</p>
-</div>
-
-<div class="col">
   <img src="/chi-lab/assets/img/zhouhao_wang.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
   <h6 class="mb-0">Zhouhao Wang</h6>
   <p class="text-muted small mb-0">PhD Student, 2024–</p>
@@ -72,10 +65,10 @@ nav_order: 3
 </div>
 
 <div class="col">
-  <img src="/chi-lab/assets/img/yiming_xia.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Yiming Xia</h6>
+  <img src="/chi-lab/assets/img/bohan_hao.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
+  <h6 class="mb-0">Bohan Hao</h6>
   <p class="text-muted small mb-0">PhD Student, 2024–</p>
-  <p class="text-muted small">Photovoltaic & Renewable Energy<br>(w/ M. Suryawanshi, X. Hao, R. Patterson)</p>
+  <p class="text-muted small">Chemical Engineering</p>
 </div>
 
 <div class="col">
@@ -90,41 +83,6 @@ nav_order: 3
   <h6 class="mb-0">Hongzhe Chen</h6>
   <p class="text-muted small mb-0">PhD Student, 2025–</p>
   <p class="text-muted small">Chemical Engineering</p>
-</div>
-
-<div class="col">
-  <img src="/chi-lab/assets/img/lingna_wang.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Lingna Wang</h6>
-  <p class="text-muted small mb-0">PhD Student, 2025–</p>
-  <p class="text-muted small">Chemical Engineering<br>(w/ L. Liang)</p>
-</div>
-
-<div class="col">
-  <img src="/chi-lab/assets/img/yanhan_wang.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Yanhan Wang</h6>
-  <p class="text-muted small mb-0">PhD Student, 2025–</p>
-  <p class="text-muted small">Chemical Engineering<br>(w/ L. Liang)</p>
-</div>
-
-<div class="col">
-  <img src="/chi-lab/assets/img/haokun_shen.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Haokun Shen</h6>
-  <p class="text-muted small mb-0">PhD Student, 2025–</p>
-  <p class="text-muted small">Chemical Engineering<br>(w/ J. Xu)</p>
-</div>
-
-<div class="col">
-  <img src="/chi-lab/assets/img/yueyu_ding.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Yueyu Ding</h6>
-  <p class="text-muted small mb-0">PhD Student, 2025–</p>
-  <p class="text-muted small">Chemical Engineering<br>(w/ W. Li)</p>
-</div>
-
-<div class="col">
-  <img src="/chi-lab/assets/img/linghui_meng.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
-  <h6 class="mb-0">Linghui Meng</h6>
-  <p class="text-muted small mb-0">PhD Student, 2025–</p>
-  <p class="text-muted small">Materials Science & Engineering<br>(w/ D. Chu)</p>
 </div>
 
 </div>
