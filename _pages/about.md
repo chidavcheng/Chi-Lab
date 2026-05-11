@@ -16,7 +16,6 @@ profile:
 selected_papers: true
 social: true
 
----
 announcements:
   enabled: true
   scrollable: true
@@ -33,3 +32,5 @@ I lead the Chi Lab at UNSW Sydney, where we study nanofluidics and advanced memb
 Before joining UNSW, I was a Research Scientist and Postdoctoral Associate at MIT and held a research fellowship at the University of Melbourne. I completed my PhD in Materials Science at Monash University.
 
 If you are interested in joining the lab or collaborating, feel free to get in touch at [chi.cheng2@unsw.edu.au](mailto:chi.cheng2@unsw.edu.au).
+
+*We gratefully acknowledge the Australian Research Council, UNSW Sydney, and our industry partners for their generous support of our research.*
