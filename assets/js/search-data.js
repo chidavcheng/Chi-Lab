@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chi-lab/people/";
           },
+        },{id: "nav-news-archive",
+          title: "news archive",
+          description: "Key milestones and news of the Chi Lab since October 2023.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/chi-lab/news-archive/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course materials, schedules, and resources for classes taught.",
