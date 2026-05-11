@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching activities and philosophy of Chi (David) Cheng at UNSW Sydney.",
+          description: "Teaching philosophy and activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/chi-lab/teaching/";
