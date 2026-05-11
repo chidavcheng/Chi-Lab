@@ -75,7 +75,7 @@ nav_order: 3
   <img src="/chi-lab/assets/img/feifan_yang.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
   <h6 class="mb-0">Feifan Yang</h6>
   <p class="text-muted small mb-0">PhD Student, 2025–</p>
-  <p class="text-muted small">Chemical Engineering<br>Univ. of British Columbia (c)</p>
+  <p class="text-muted small">Chemical Engineering<br>Univ. of British Columbia (MEng)</p>
 </div>
 
 <div class="col">
