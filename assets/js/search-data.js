@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/chi-lab/";
     },
-  },{id: "nav-people",
-          title: "people",
-          description: "Members of the Chi Lab.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/chi-lab/people/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/chi-lab/publications/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "Members of the Chi Lab.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/chi-lab/people/";
           },
         },{id: "nav-teaching",
           title: "teaching",
