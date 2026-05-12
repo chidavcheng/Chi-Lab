@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Teaching philosophy and activities.
+title: teaching
+description: teaching philosophy and activities.
 nav: true
 nav_order: 5
 ---
