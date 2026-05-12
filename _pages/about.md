@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Chi D. Cheng
+title: about
 permalink: /
 subtitle: Senior Lecturer & ARC Future Fellow @ <a href='https://www.unsw.edu.au' target='_blank'>UNSW Sydney</a>, Australia.
 
