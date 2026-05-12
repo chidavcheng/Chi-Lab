@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 nav: true
 nav_order: 2
-description: our research
+description: study of molecular fluids for resource and energy security
 ---
 
 <div style="background: #003B71; border-radius: var(--border-radius-lg); padding: 4rem 3rem; margin-bottom: 3rem; position: relative; overflow: hidden;">
