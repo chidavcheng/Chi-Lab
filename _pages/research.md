@@ -84,4 +84,4 @@ description: our research
 
 ##### Funding & Affiliations
 
-Our research is supported by the [Australian Research Council](https://www.arc.gov.au), the [Department of Education Trailblazer Program](https://www.education.gov.au), UNSW Sydney, and international collaborators at MIT and the Chinese Academy of Sciences. We are affiliated with the [UNESCO Centre for Membrane Science and Technology](https://www.unsw.edu.au/research/membrane).
+Our research is supported by the [Australian Research Council](https://www.arc.gov.au), UNSW Sydney, and domestic and international industry partners. We are affiliated with the [UNESCO Centre for Membrane Science and Technology](https://www.unsw.edu.au/research/membrane).
