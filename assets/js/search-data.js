@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Research themes of the Chi Lab at UNSW Sydney.",
+          description: "our research",
           section: "Navigation",
           handler: () => {
             window.location.href = "/chi-lab/research/";
