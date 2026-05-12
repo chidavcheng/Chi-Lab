@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "our research",
+          description: "study of molecular fluids for resource and energy security",
           section: "Navigation",
           handler: () => {
             window.location.href = "/chi-lab/research/";
