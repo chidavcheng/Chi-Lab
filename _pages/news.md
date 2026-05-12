@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news archive
+title: News archive
 permalink: /news-archive/
 description: Milestones and news of the Chi Lab since October 2023.
 nav: true
