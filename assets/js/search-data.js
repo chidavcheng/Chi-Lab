@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/chi-lab/publications/";
           },
         },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "Members of the Chi Lab.",
           section: "Navigation",
           handler: () => {
