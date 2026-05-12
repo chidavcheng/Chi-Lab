@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/chi-lab/people/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Teaching philosophy and activities.",
           section: "Navigation",
           handler: () => {
