@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/chi-lab/";
     },
-  },{id: "nav-research",
-          title: "research",
-          description: "study of molecular fluids for resource and energy security",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/chi-lab/research/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "in reversed chronological order.",
           section: "Navigation",
