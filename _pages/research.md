@@ -12,7 +12,7 @@ description: our research
   <div style="position: absolute; bottom: -60px; left: -20px; width: 200px; height: 200px; border-radius: 50%; background: rgba(255,255,255,0.03);"></div>
   <h2 style="color: #ffffff; font-size: 2rem; font-weight: 500; margin: 0 0 1rem; position: relative;">Our Research</h2>
   <p style="color: rgba(255,255,255,0.85); font-size: 1.1rem; line-height: 1.8; max-width: 680px; margin: 0; position: relative;">
-    The Chi Lab works at the intersection of nanoscience and chemical engineering. We design atomically thin membranes, uncover the physics of molecular and ionic transport at the nanoscale, and translate these discoveries into solutions for chemical separations, green energy, and sustainable resources.
+    The Chi Lab works at the intersection of nanoscience and chemical engineering. We design advanced membranes, uncover the physics of molecular and ionic transport at the nanoscale, and translate these discoveries into solutions for chemical separations, green energy, and sustainable resources.
   </p>
 </div>
 
