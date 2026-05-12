@@ -38,7 +38,7 @@ nav_order: 4
 <div class="col">
   <img src="/chi-lab/assets/img/tongxi_lin.jpg" class="rounded-circle mb-2" width="130" height="130" style="object-fit: cover;">
   <h6 class="mb-0">Dr. Tongxi Lin</h6>
-  <p class="text-muted small mb-0">Researcher, 2026–</p>
+  <p class="text-muted small mb-0">Research Associate, 2026–</p>
   <p class="text-muted small">UNSW Sydney (PhD)</p>
 </div>
 
