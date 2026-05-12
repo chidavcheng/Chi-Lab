@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/chi-lab/teaching/";
           },
         },{id: "nav-news-archive",
-          title: "News archive",
-          description: "Milestones and news of the Chi Lab since October 2023.",
+          title: "news archive",
+          description: "milestones and news of the Chi Lab since October 2023.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/chi-lab/news-archive/";
