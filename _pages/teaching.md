@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching philosophy and activities.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 I believe that great engineering education goes beyond conveying facts — it should inspire curiosity, build confidence, and equip students with the tools to tackle real-world challenges. My teaching is guided by active learning through hands-on experiments and real data, adaptability by continuously refining courses based on student feedback, and accessibility by making complex concepts approachable for all students. These principles are reflected in my completion of UNSW's [Course Design Institute (CDI)](https://www.unsw.edu.au/teaching/professional-development/course-design-institute) and the [Kaufman Teaching Certificate Program (KTCP)](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) at MIT.
