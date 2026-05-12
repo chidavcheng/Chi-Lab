@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/chi-lab/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "research",
+          description: "Research themes of the Chi Lab at UNSW Sydney.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/chi-lab/research/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "in reversed chronological order.",
           section: "Navigation",
