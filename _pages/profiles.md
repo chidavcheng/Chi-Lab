@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /people/
-title: People
-description: Members of the Chi Lab.
+title: people
+description: members of the Chi Lab.
 nav: true
 nav_order: 4
 ---
