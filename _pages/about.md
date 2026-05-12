@@ -6,7 +6,7 @@ subtitle: Senior Lecturer & ARC Future Fellow @ <a href='https://www.unsw.edu.au
 
 profile:
   align: right
-  image: group_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p style="font-family: inherit; font-size: 0.9rem; color: #666;">Hilmer 522, Gate 2</p>
