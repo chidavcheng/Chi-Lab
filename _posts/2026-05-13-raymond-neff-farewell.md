@@ -10,15 +10,15 @@ images:
   slider: true
 ---
 
-The Chi Lab gathered to say farewell to **Raymond Neff**, who has been a wonderful presence in our group meetings over the past months. Raymond joined our weekly group meetings and contributed generously — challenging our thinking, sharpening our presentations, and helping every member of the lab grow as a scientist and communicator.
+The Chi Lab gathered to say farewell to **Raymond Neff**, who has been a wonderful presence in our group meetings over the past year. Raymond joined our weekly group meetings and contributed generously — challenging our thinking, sharpening our presentations, and helping every member of the lab grow as a scientist and communicator.
 
-Raymond is now heading to the **University of Edinburgh** for his next adventure, and we couldn't be more excited for him. Edinburgh's gain is very much our loss!
+Raymond is now heading to the **University of Edinburgh** for his next adventure, and we couldn't be more excited for him. 
 
-We will miss his energy, his thoughtful questions, and the way he made every group meeting just a little bit better. Once a Chi Lab member, always a Chi Lab member. 🎉
+We will miss his energy, his thoughtful questions, and the way he made every group meeting just a little bit better. 🎉
 
 ---
 
-*Wishing you all the best, Raymond — go make Edinburgh proud!*
+*Wishing you all the best, Raymond!*
 
 ---
 
