@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: lab life # blog_name will be displayed in your blog page
-blog_description: chi flows — the science, the people, and the energy that drives us.
+blog_description: Chi flow. Science glow. People grow
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
