@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/chi-lab/";
     },
-  },{id: "nav-research",
-          title: "research",
-          description: "study of molecular fluids for resource and energy security",
+  },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/chi-lab/research/";
+            window.location.href = "/chi-lab/projects/";
           },
         },{id: "nav-publications",
           title: "publications",
