@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-nav: false
+nav: true
 nav_order: 2
 description: study of molecular fluids for resource and energy security
 ---
