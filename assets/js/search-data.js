@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/chi-lab/blog/2026/raymond-neff-farewell/";
           
         },
+      },{id: "post-congratulations-dr-jiancheng-ivan-lin",
+        
+          title: "Congratulations Dr Jiancheng (Ivan) Lin!",
+        
+        description: "Ivan successfully defended his PhD thesis — the first PhD graduate from the Chi Lab!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/chi-lab/blog/2025/ivan-lin-graduation/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
