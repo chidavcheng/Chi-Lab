@@ -138,7 +138,7 @@ nav_order: 4
 |---|---|---|---|
 | Jiancheng (Ivan) Lin | PhD, Chemical Engineering | 2021–2025 | University of Sydney |
 | Weile Gu | ToR (Taste of Research) student, Chemical Engineering | 2024–2025 | UNSW Sydney |
-| Maoqi Lin | Postdoctoral Fellow | 2023–2024 | BYD Company Limited |
+| Maoqi Lin | Postdoctoral Fellow | 2022–2023 | BYD Company Limited |
 | Hien Thao Nguyen | MPhil, University of Melbourne | 2022–2023 | — |
 
 ---
