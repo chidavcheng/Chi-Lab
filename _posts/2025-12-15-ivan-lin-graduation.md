@@ -14,7 +14,7 @@ We are incredibly proud to celebrate **Dr Jiancheng (Ivan) Lin**, who successful
 
 Ivan's thesis, *"Controlled electrocrystallization of metal-organic charge transfer complexes for gas sensor integration"*, represents outstanding and creative work at the intersection of electrochemistry, materials science, and sensing technologies.
 
-Ivan joined the Chi Lab in his final year after transferring from another group, and in that time he made a tremendous impression on everyone in the lab. He brought focus, dedication, and a genuine spirit of collaboration that made our group better. It was a privilege to be part of his final chapter as a PhD student.
+Ivan joined the Chi Lab in his final year after transferring from Prof Mao's group, and in that time he made a tremendous impression on everyone in the lab. He brought focus, dedication, and a genuine spirit of collaboration that made our group better. It was a privilege to be part of his final chapter as a PhD student.
 
 We wish Ivan all the very best in the next exciting chapter of his journey — the best is yet to come! Once a Chi Lab member, always a Chi Lab member. 🎉
 
