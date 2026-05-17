@@ -73,17 +73,6 @@ ninja.data = [{
             window.location.href = "/chi-lab/blog/2025/ivan-lin-graduation/";
           
         },
-      },{id: "post-dan-wu-at-the-sassy-sydney-surfaces-and-soft-stuff-symposium",
-        
-          title: "Dan Wu at the Sassy Sydney Surfaces and Soft Stuff Symposium!",
-        
-        description: "Dan presented her research on ion transport and selectivity in anion exchange membranes at the Sassy Sydney Surfaces and Soft Stuff Symposium.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/chi-lab/blog/2025/dan-wu-symposium/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
