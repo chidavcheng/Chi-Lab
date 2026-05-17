@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dan Wu at the Sassy Sydney Surfaces and Soft Stuff Symposium!
-date: 2025-05-17
+date: 2026-05-14
 description: Dan presented her research on ion transport and selectivity in anion exchange membranes at the Sassy Sydney Surfaces and Soft Stuff Symposium.
 tags: conference people membranes
 categories: lab-life
@@ -10,15 +10,13 @@ images:
   slider: true
 ---
 
-We are delighted to celebrate **Dan Wu**, who recently delivered a presentation at the **Sassy Sydney Surfaces and Soft Stuff Symposium** — one of Sydney's most vibrant forums for surface and soft matter science! 🎉
+**Dan Wu** recently presented her research at the **Sassy Sydney Surfaces and Soft Stuff Symposium**, sharing her work on ion transport and selectivity in anion exchange membranes.
 
-Dan presented her research on ion transport and selectivity in anion exchange membranes, showcasing both the rigour and originality that defines research in our group. Her talk sparked engaging discussion and was very well received by the community.
-
-We are incredibly proud of Dan's contribution to the field and look forward to seeing the continued impact of her work. 🔬
+It was great to see Dan engage with the broader surfaces and soft matter community, and we look forward to seeing where her research goes next. 🔬
 
 ---
 
-*Congratulations, Dan — we are so proud of you!*
+*Well done, Dan!*
 
 ---
 
