@@ -51,7 +51,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/chi-lab/blog/";
           },
-        },{id: "post-dan-wu-at-the-sassy-sydney-surfaces-and-soft-stuff-symposium",
+        },{id: "dropdown-news",
+              title: "news",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/chi-lab/news-archive/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/chi-lab/blog/";
+              },
+            },{id: "post-dan-wu-at-the-sassy-sydney-surfaces-and-soft-stuff-symposium",
         
           title: "Dan Wu at the Sassy Sydney Surfaces and Soft Stuff Symposium!",
         
